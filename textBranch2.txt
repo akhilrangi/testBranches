@@ -1,1 +1,3 @@
 test text in Branch2
+
+commit after adding the submodule
