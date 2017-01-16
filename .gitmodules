@@ -1,0 +1,4 @@
+[submodule "testBranches.sub1"]
+	path = testBranches.sub1
+	url = https://github.com/akhilrangi/testBranches.git
+	branch = sub1
